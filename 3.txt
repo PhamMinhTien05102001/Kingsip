@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 3
 Lan3
+=======
+3
+>>>>>>> parent of bee672c (Lan2)
